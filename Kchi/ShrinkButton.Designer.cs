@@ -1,4 +1,4 @@
-﻿namespace Kchi
+﻿namespace ShrinkButtonWinformsConcept
 {
     partial class ShrinkButton
     {

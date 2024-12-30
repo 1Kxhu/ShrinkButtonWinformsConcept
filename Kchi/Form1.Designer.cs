@@ -1,4 +1,4 @@
-﻿namespace Kchi
+﻿namespace ShrinkButtonWinformsConcept
 {
     partial class Form1
     {
@@ -32,11 +32,11 @@
             this.cuiFormDrag1 = new CuoreUI.cuiFormDrag(this.components);
             this.cuiFormRounder1 = new CuoreUI.Components.cuiFormRounder();
             this.cuiFormAnimator1 = new CuoreUI.Components.cuiFormAnimator(this.components);
-            this.shrinkButton2 = new Kchi.ShrinkButton();
-            this.shrinkButton1 = new Kchi.ShrinkButton();
-            this.shrinkButton3 = new Kchi.ShrinkButton();
-            this.shrinkButton4 = new Kchi.ShrinkButton();
-            this.shrinkButton5 = new Kchi.ShrinkButton();
+            this.shrinkButton2 = new ShrinkButtonWinformsConcept.ShrinkButton();
+            this.shrinkButton1 = new ShrinkButtonWinformsConcept.ShrinkButton();
+            this.shrinkButton3 = new ShrinkButtonWinformsConcept.ShrinkButton();
+            this.shrinkButton4 = new ShrinkButtonWinformsConcept.ShrinkButton();
+            this.shrinkButton5 = new ShrinkButtonWinformsConcept.ShrinkButton();
             this.SuspendLayout();
             // 
             // cuiFormDrag1

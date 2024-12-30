@@ -5,7 +5,7 @@ using System.Drawing.Drawing2D;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Kchi
+namespace ShrinkButtonWinformsConcept
 {
     public partial class ShrinkButton : UserControl
     {
